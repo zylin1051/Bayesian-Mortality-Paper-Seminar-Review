@@ -73,7 +73,7 @@ Also, as mentioned in the *Major Concerns and Comments* of this report, would th
 -   **Advantages of A Joint Jump Occurrence**\
     The authors may want to elaborate on the last paragraph of Section 7.2, where they highlight the advantage of a single jump occurrence in the multi-population scenario. In particular, why is a single jump occurrence better than multiple jump occurrences in terms of forecasting in the multi-population case? What are the considerations and implications here?
 
-# Recommendation for Decision {#recommendation-for-decision .unnumbered}
+# Recommendation for Decision
 
 Upon review, we recommend the following decision.
 
